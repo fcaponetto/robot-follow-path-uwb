@@ -1,4 +1,4 @@
-# robot-follow-path-uwb
+# robotic system to follow dynamic paths
 
 Use of Ultra-Wide-Band radio module to detect the movement of a person in order to follow him in case of acceptable range distance.
 
