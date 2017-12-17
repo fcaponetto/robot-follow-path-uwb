@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>980</ColumnWidth1>
+        <ColumnWidth2>261</ColumnWidth2>
+        <ColumnWidth3>65</ColumnWidth3>
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>QuickWatch</Factory></Window><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>195</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+      <QuickWatch>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>100</item><item>150</item><item>100</item><item>100</item></col-widths>
+        <QWatchHistory>
+          
+          
+          
+        <item>k</item><item>height</item><item>b</item><item>a</item><item>value</item><item>timer_reset_tag</item><item>complete1</item><item>complete</item><item>make_measure1</item></QWatchHistory>
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows></QuickWatch>
+    <WATCH_1><expressions><item>a</item><item>b</item><item>c</item><item>alfa_old</item><item>beta_old</item><item>gamma_old</item><item>alfa_new</item><item>beta_new</item><item>height</item><item>ipotenuse</item><item>temp</item><item>temp1</item><item>temp3</item><item>temp4</item><item>temp5</item><item>temp6</item><item>ipotenuse</item><item>time_elapsed</item><item>reset_tag</item><item>median</item><item>miu</item><item>timer_reset_tag</item><item>make_measure_left</item><item>make_measure_right</item><item>x_old</item><item>x_new</item><item>diff</item><item>ref</item><item>ema</item><item>ir_led</item><item>measure</item><item>distance_left</item><item>distances[0]</item><item>distances[1]</item><item>distances[2]</item><item>ir_led</item><item>values[1]</item><item>s-&gt;values[0]</item><item>distance</item><item>s.values[N-1]</item><item>complete_left</item><item>s.values[N-1]</item><item>k</item><item>s-&gt;values[14]</item><item>k</item><item>x</item><item>steps</item><item>it</item><item>steps</item><item>start</item><item>start</item><item>ir_led</item><item>new_distance_left</item><item>.distance_right</item><item>d_r</item><item>d_l</item><item>points.size</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>200</item><item>150</item><item>100</item><item>278</item></col-widths><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></WATCH_1><Memory><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><FindAsHex>0</FindAsHex><MemGotoHistory/></Memory></Static>
+    <Windows>
+      
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19700-1200</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>master_i2c</ExpandedNode><ExpandedNode>master_i2c/Source Files</ExpandedNode><ExpandedNode>master_i2c/Source Files/lib</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-30448-1204</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2><Tabs><Tab><Identity>TabID-15972-1360</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\average.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>137</SelStart2><SelEnd2>168</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\rotatewheel.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>126</SelStart2><SelEnd2>126</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\rotatewheel.cpp</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>382</SelStart2><SelEnd2>382</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\types.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>37</YPos2><SelStart2>960</SelStart2><SelEnd2>960</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\errormeasure.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>4</YPos2><SelStart2>593</SelStart2><SelEnd2>593</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\def_rotation.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>120</SelStart2><SelEnd2>120</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\errormeasure.cpp</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>17</YPos2><SelStart2>1088</SelStart2><SelEnd2>1088</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\triangulation_two_steps.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>361</SelStart2><SelEnd2>361</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\triangulation_two_steps.cpp</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>30</YPos2><SelStart2>1379</SelStart2><SelEnd2>1379</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\master.cpp</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>9</YPos2><SelStart2>1394</SelStart2><SelEnd2>1394</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\triangulation_in_rotation.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>42</SelStart2><SelEnd2>42</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\triangulation_in_rotation.cpp</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>9</YPos2><SelStart2>2956</SelStart2><SelEnd2>3323</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\master.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>171</SelStart2><SelEnd2>171</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.cpp</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>198</YPos2><SelStart2>6277</SelStart2><SelEnd2>6277</SelEnd2></Tab><ActiveTab>13</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02FA7710><key>iaridepm.enu1</key></Toolbar-02FA7710></Sizes></Row0><Row1><Sizes><Toolbar-15B177C0><key>debuggergui.enu1</key></Toolbar-15B177C0></Sizes></Row1><Row2><Sizes><Toolbar-15B16F28><key>armstlink2.enu1</key></Toolbar-15B16F28></Sizes></Row2></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>394</Bottom><Right>269</Right><x>-2</x><y>-2</y><xscreen>271</xscreen><yscreen>294</yscreen><sizeHorzCX>198389</sizeHorzCX><sizeHorzCY>429197</sizeHorzCY><sizeVertCX>198389</sizeVertCX><sizeVertCY>578102</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>394</Bottom><Right>269</Right><x>-2</x><y>-2</y><xscreen>271</xscreen><yscreen>294</yscreen><sizeHorzCX>198389</sizeHorzCX><sizeHorzCY>429197</sizeHorzCY><sizeVertCX>198389</sizeVertCX><sizeVertCY>578102</sizeVertCY></Rect></Wnd1></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>200</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>291971</sizeHorzCY><sizeVertCX>146413</sizeVertCX><sizeVertCY>291971</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
