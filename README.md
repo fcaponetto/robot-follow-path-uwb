@@ -1,12 +1,12 @@
-# robotic system to follow dynamic paths
+# Robotic system following real-time human-path
 
-Use of Ultra-Wide-Band radio module to detect the movement of a person in order to follow him in case of acceptable range distance.
+Use of a pair of Ultra-Wide-Band (UWB) radio modules to detect the location of a person and follow him in case of acceptable range distance.
 
 ![alt text](images/My_Thesis_1.jpg)
 
 ### Features
 The robot is capable to calculate the distance (max 50m) between the point (person) and itself.
-Detects the polar coordinates mixing particle filter and statistics correlation matrix and triangulation.
-Control the system in order that the robot always follows the human.
+Detects the polar coordinates, together with particle filter and statistics correlation matrix.
+Control the robot's wheel for generating the algorithm capable to follow the taget person.
 
-The sensors UWB, ST and Arduino board are programmed in C (controlled by SPI) mixed with C++ follow-path algorithm.
+The UWB sensors, ST and Arduino board are programmed in C (controlled by SPI) mixed with C++ follow-path algorithm.
