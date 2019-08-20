@@ -1,8 +1,13 @@
+[img01]: ./images/My_Thesis_1.jpg
+[img02]: ./images/My_Thesis_2.jpg
+
+
 # Robotic system following real-time human-path
 
 Use of a pair of Ultra-Wide-Band (UWB) radio modules to detect the location of a person and follow him in case of acceptable range distance.
 
-![alt text](images/My_Thesis_1.jpg)
+![img01]
+![img02]
 
 ### Features
 The robot is capable to calculate the distance (max 50m) between the point (person) and itself.
