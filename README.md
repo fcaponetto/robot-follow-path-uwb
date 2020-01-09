@@ -2,7 +2,7 @@
 [img02]: ./images/My_Thesis_2.jpg
 
 
-# Robotic system following real-time human-path
+# Robotic system chase real-time human-path
 
 Use of a pair of Ultra-Wide-Band (UWB) radio modules to detect the location of a person and follow him in case of acceptable range distance.
 
